@@ -1,4 +1,4 @@
-const Discord = require('discord.js') //
+const Discord = require('discord.js') //Получается пиздец.
 const fs = require("fs")
 
 const intents = new Discord.Intents(32767);
@@ -25,4 +25,4 @@ fs.readdirSync('./commands').forEach(module => {
 
 bot.on('message', async (msg) => {
   
-})
+}) 
