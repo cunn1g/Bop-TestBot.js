@@ -1,4 +1,4 @@
-const Discord = require('discord.js')
+const Discord = require('discord.js') //
 const fs = require("fs")
 
 const intents = new Discord.Intents(32767);
