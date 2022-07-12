@@ -1,4 +1,4 @@
-const Discord = require('discord.js') //Получается пиздец.
+const Discord = require('discord.js') //Получается пиздец. Да-да.
 const fs = require("fs")
 
 const intents = new Discord.Intents(32767);
